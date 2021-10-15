@@ -14,7 +14,7 @@
     "async": "0.2.x",
     "passport": "0.1.x",
     "passport-local": "0.1.x",
-    "validator": "2.0.x",
+    "validator": "2.1.0",
     "mkdirp": "0.3.x",
     "node-uuid": "1.4.x"
   },

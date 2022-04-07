@@ -11,7 +11,7 @@
     "prana-mongodb": "0.0.x",
     "connect-flash": "0.1.x",
     "commander": "1.3.x",
-    "async": "0.2.x",
+    "async": "3.2.2",
     "passport": "0.1.x",
     "passport-local": "0.1.x",
     "validator": "2.0.x",
